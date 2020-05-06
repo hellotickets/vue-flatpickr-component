@@ -24,7 +24,7 @@
     "prepublishOnly": "yarn run test && yarn run build"
   },
   "dependencies": {
-    "@hellotickets/flatpickr": "^1.1.0"
+    "@hellotickets/flatpickr": "^1.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
