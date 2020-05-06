@@ -1,5 +1,5 @@
 import {mount} from '@vue/test-utils'
-import Flatpicker from 'flatpickr';
+import Flatpicker from '@hellotickets/flatpickr';
 import Component from '../src/component.js';
 
 describe('Flatpickr events', () => {

@@ -1,7 +1,7 @@
 {
-  "name": "vue-flatpickr-component",
-  "version": "8.1.5",
-  "description": "Vue.js component for Flatpickr date-time picker",
+  "name": "@hellotickets/vue-flatpickr-component",
+  "version": "0.0.1",
+  "description": "Vue.js component for @hellotickets/flatpickr date-time picker",
   "main": "dist/vue-flatpickr.js",
   "browser": "dist/vue-flatpickr.min.js",
   "files": [
@@ -10,21 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ankurk91/vue-flatpickr-component.git"
+    "url": "git://github.com:hellotickets/vue-flatpickr-component.git"
   },
-  "keywords": [
-    "vue",
-    "flatpickr",
-    "vue-flatpickr",
-    "datepicker",
-    "timepicker"
-  ],
-  "author": "ankurk91",
+  "author": "Hellotickets <development@hellotickets.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ankurk91/vue-flatpickr-component/issues"
-  },
-  "homepage": "https://github.com/ankurk91/vue-flatpickr-component",
   "scripts": {
     "test": "jest",
     "test:watch": "yarn run test --watch --notify",
@@ -35,7 +24,7 @@
     "prepublishOnly": "yarn run test && yarn run build"
   },
   "dependencies": {
-    "flatpickr": "^4.6.3"
+    "@hellotickets/flatpickr": "^1.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",

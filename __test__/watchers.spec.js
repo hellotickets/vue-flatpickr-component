@@ -1,6 +1,6 @@
 import {mount} from '@vue/test-utils'
-import {Hindi as HindiLocale} from 'flatpickr/dist/l10n/hi';
-import {english as EnglishLocale} from 'flatpickr/dist/l10n/default.js'
+import {Hindi as HindiLocale} from '@hellotickets/flatpickr/dist/l10n/hi';
+import {english as EnglishLocale} from '@hellotickets/flatpickr/dist/l10n/default.js'
 
 import Component from '../src/component.js';
 
