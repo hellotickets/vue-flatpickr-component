@@ -1,7 +1,7 @@
 {
   "name": "@hellotickets/vue-flatpickr-component",
   "version": "0.0.1",
-  "description": "Vue.js component for @hellotickets/flatpickr date-time picker",
+  "description": "Hellotickets Vue.js component for @hellotickets/flatpickr",
   "main": "dist/vue-flatpickr.js",
   "browser": "dist/vue-flatpickr.min.js",
   "files": [
