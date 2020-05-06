@@ -784,10 +784,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@hellotickets/flatpickr@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@hellotickets/flatpickr/-/flatpickr-1.0.1.tgz#09a2c23707691c038d3409bb1d2c4e9283e7e1fe"
-  integrity sha512-D1IdP16jkcqFoHdhkCa/CEw+RvxtVEYFQI7HoXfsGtnOW6SOlBJ2sllvwUGMFYGLArCoPQ+sWoB3N/Q3y65g5Q==
+"@hellotickets/flatpickr@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@hellotickets/flatpickr/-/flatpickr-1.1.0.tgz#65723c468ff30f1c67ac3d70fe82c6ea6eca4436"
+  integrity sha512-cF7woqfzI1VijoTuG7JJjQcehIntx97RamrhdUhmUzpOVzKuqgOIM5J8Anqm757Ak2RrWf6gfVjVdt7HhuqEeA==
 
 "@istanbuljs/load-nyc-config@^1.0.0":
   version "1.0.0"
