@@ -1,6 +1,6 @@
 {
   "name": "@hellotickets/vue-flatpickr-component",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "description": "Hellotickets Vue.js component for @hellotickets/flatpickr",
   "main": "dist/vue-flatpickr.js",
   "browser": "dist/vue-flatpickr.min.js",
